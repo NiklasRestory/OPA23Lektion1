@@ -76,5 +76,6 @@ public class Main {
         int secondNumber = Integer.parseInt(scanner.nextLine());
         int added = firstNumber + secondNumber;
         System.out.println(firstNumber + " + " + secondNumber + " = " + added);
+        
     }
 }
