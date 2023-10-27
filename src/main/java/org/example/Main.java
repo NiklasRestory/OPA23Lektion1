@@ -2,7 +2,8 @@ package org.example;
 
 import java.util.Scanner;
 
-public class Main {
+public class Main { 
+    // The main function is where the program will start from.
     public static void main(String[] args) {
         // 1. Skriv ut ”Hej, världen!” med System.out.println().
         System.out.println("Hej, världen!");
